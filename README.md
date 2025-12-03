@@ -19,6 +19,10 @@ The final model achieves strong real-world fraud detection performance, with an 
 
 ## 📊 Dataset Summary
 
+Source: Kaggle
+
+Link: https://www.kaggle.com/datasets/antopravinjohnbosco/auto-insurance-claims-fraud-detection
+
 - Rows: 1,000
 - Target:
 1 → Fraud
@@ -125,6 +129,16 @@ ROC-AUC|	0.823
 - ROC Curve
 
 - Confusion Matrix Heatmap
+
+## ⚙️Tech Stack
+
+Category|	Tools
+|---|---|
+Language|	Python 3
+Libraries|	pandas, numpy, matplotlib, seaborn
+Environment|	Jupyter Notebook / VS Code
+Version Control|	Git & GitHub
+Dataset Hosting|	Kaggle Datasets
 
 ## 📄 License
 
